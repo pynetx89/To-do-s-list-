@@ -1,0 +1,8 @@
+body {
+  height: 100vh;
+  background: #252525;
+  background: radial-gradient(#eee, #aaa);
+}
+* .App {
+  text-align: center;
+}

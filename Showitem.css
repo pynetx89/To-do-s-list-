@@ -1,0 +1,27 @@
+.container {
+  width: 100px;
+
+  text-align: center;
+
+  align-content: center;
+
+  border-top: 1px solid #777;
+  width: 100%;
+}
+.container input {
+  box-sizing: border-box;
+  width: 75%;
+  padding: 10px;
+  font-size: 18px;
+  border: none;
+  background-color: darkgray;
+  margin-top: 15px;
+}
+.col-6 {
+  width: 93%;
+}
+
+.col-6 Button {
+  color: azure;
+  margin-top: 10px;
+}
